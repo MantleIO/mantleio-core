@@ -48,3 +48,8 @@ public class LoginTest {
 ```
 
 The core service will look by the name on the YAML file for those tests doing some conversion considering each testing tool eg. cammel case conversion, snake case convertion etc.
+
+Tech:
+- yaml
+- java
+- geo db check?
